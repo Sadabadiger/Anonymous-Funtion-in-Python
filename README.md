@@ -7,4 +7,3 @@ The content of this notebook is as follows
 5. Function Decorator
 6. Generator
 7. Creating your own modules in Python
-8. 
